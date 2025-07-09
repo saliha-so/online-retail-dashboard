@@ -56,6 +56,11 @@ This project is a sales analysis of an e-commerce company based on historical tr
 > (https://public.tableau.com/views/uk_retailer1/Dashboard1?:language=en-
 US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+## Dataset
+
+The original dataset is too large to upload here.  
+You can download it directly from [Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci/data)).
+
 ####  About Me
 
 I'm a junior data analyst transitioning into the field from a non-technical background. This project is part of my learning journey, and I'm eager to keep building impactful, business-driven analytics projects.
