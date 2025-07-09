@@ -52,9 +52,8 @@ This project is a sales analysis of an e-commerce company based on historical tr
 
 ## Dashboard Preview
 
-> (https://public.tableau.com/views/uk_retailer2/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-> (https://public.tableau.com/views/uk_retailer1/Dashboard1?:language=en-
-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+> [Tableau](https://public.tableau.com/views/uk_retailer2/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+> [Tableau](https://public.tableau.com/views/uk_retailer1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Dataset
 
@@ -65,6 +64,6 @@ You can download it directly from [Kaggle](https://www.kaggle.com/datasets/mashl
 
 I'm a junior data analyst transitioning into the field from a non-technical background. This project is part of my learning journey, and I'm eager to keep building impactful, business-driven analytics projects.
 
-📬 Feel free to connect with me on Linkedln (www.linkedin.com/in/salihasonmez) 
-📊 View more of my work on Tableau (https://public.tableau.com/app/profile/saliha.s.nmez/vizzes)
+📬 Feel free to connect with me on [Linkedln](www.linkedin.com/in/salihasonmez) 
+📊 View more of my work on [Tableau](https://public.tableau.com/app/profile/saliha.s.nmez/vizzes)
 
